@@ -7,7 +7,7 @@ Our goal was to help gym coaches or just regular gym rets like some of us to pre
 ### Key Objectives:
 1. **Understand user behavior:** Analyze exercise patterns, frequency, and preferences in workout types
 2. **Discover trends:** Identify correlations and trends in the user data
-3. **Predic calories burnt during the session:** Create an accurate ML model to predict calories burnt based on user demographics and excercise details
+3. **Predic calories burnt during the session:** Create an accurate ML model to predict calories burnt based on user demographics and exercise details
 ## 📂 Dataset
 
 ### Source:
@@ -27,6 +27,7 @@ The dataset includes:
 1. **Data Cleaning and Preprocessing:**
    - Checked for missing values and inconsistencies
    - Performed data type conversions and filtering
+   - Feature engineering
 
 2. **Exploratory Data Analysis (EDA):**
    - Visualized key metrics using matplotlib and seaborn
